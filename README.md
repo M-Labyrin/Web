@@ -19,3 +19,5 @@
 ### [Миксер для смешивания цветов](https://github.com/a6pekosqaa/Web/blob/master/mixer.html)
 
 ### [ИСР 3.1](https://repl.it/@a6pekosqaa/ISR3-1#index.html)
+
+### [ИСР 3.2](https://repl.it/@a6pekosqaa/ISR3-2#script.js)
