@@ -1,0 +1,16 @@
+{
+  "systemParams": "linux-x64-72",
+  "modulesFolders": [
+    "node_modules"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "goss_pause@^1.0.1"
+  ],
+  "lockfileEntries": {
+    "goss_pause@^1.0.1": "https://registry.yarnpkg.com/goss_pause/-/goss_pause-1.0.1.tgz#efdbe66a5618943f0764bbdb3e2339fd3b309a39"
+  },
+  "files": [],
+  "artifacts": {}
+}
