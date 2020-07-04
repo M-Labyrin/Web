@@ -8,6 +8,8 @@
 
 ### [Неделя №3](https://github.com/a6pekosqaa/Web/tree/master/Week_3)
 
+### [Неделя №6](https://github.com/a6pekosqaa/Web/tree/master/Week_6)
+
 ### Неделя №7 [Счётчик](https://kodaktor.ru/?!=2c4cefb_0461c)
 
 ### Неделя №9 [JS lab](https://kodaktor.ru/?!=08fd736_d3908)
